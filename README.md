@@ -12,3 +12,6 @@
   - roop项目地址: https://github.com/s0md3v/roop
 
 ## 换脸效果样例
+- 原始脸PNG <img src="resource/face_pictrue/looks_like_musk.png" width="50%">
+- 原视频GIF ![source_video_1.gif](resource%2Fmerged_example%2Fsource_video_1.gif)
+- 合成后GIF ![merged_video_1.gif](resource%2Fmerged_example%2Fmerged_video_1.gif)
