@@ -27,3 +27,6 @@
     <img src="resource/merged_example/target_video_2.gif" width="50%" style="float: left" alt="target_video_2">
     <img src="resource/merged_example/merged_video_2.gif" width="50%" style="float: right" alt="merged_video_1">
 </div>
+
+## 项目描述
+- NoteBook文件 [roop-kaggle.ipynb](roop-kaggle.ipynb)
