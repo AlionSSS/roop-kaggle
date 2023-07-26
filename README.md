@@ -9,6 +9,7 @@
 - 此样例会面向较广的使用者，所以会写得比较啰嗦、傻瓜式...
 - 地址信息
   - 本项目的Kaggle地址: https://www.kaggle.com/code/alionsss/roop-kaggle
+  - 本项目的GitHub地址: https://github.com/AlionSSS/roop-kaggle
   - roop项目地址: https://github.com/s0md3v/roop
 
 ## 换脸效果样例
