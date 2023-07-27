@@ -17,17 +17,11 @@
 ## 换脸效果样例 GIF
 - 样例 1
 
-<div id="wrap">
-    <img src="resource/merged_example/target_video_1.gif" width="50%" style="float: left" alt="target_video_1">
-    <img src="resource/merged_example/merged_video_1.gif" width="50%" style="float: right" alt="merged_video_1">
-</div>
+![target_merged_1.gif](resource%2Fmerged_example%2Ftarget_merged_1.gif)
 
 - 样例 2
 
-<div id="wrap">
-    <img src="resource/merged_example/target_video_2.gif" width="50%" style="float: left" alt="target_video_2">
-    <img src="resource/merged_example/merged_video_2.gif" width="50%" style="float: right" alt="merged_video_1">
-</div>
+![target_merged_2.gif](resource%2Fmerged_example%2Ftarget_merged_2.gif)
 
 ## 项目结构描述
 ```shell
