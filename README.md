@@ -15,19 +15,26 @@
 
 
 ## 换脸效果样例 GIF
-- 样例1
+- 样例 1
 
 <div id="wrap">
     <img src="resource/merged_example/target_video_1.gif" width="50%" style="float: left" alt="target_video_1">
     <img src="resource/merged_example/merged_video_1.gif" width="50%" style="float: right" alt="merged_video_1">
 </div>
 
-- 样例2
+- 样例 2
 
 <div id="wrap">
     <img src="resource/merged_example/target_video_2.gif" width="50%" style="float: left" alt="target_video_2">
     <img src="resource/merged_example/merged_video_2.gif" width="50%" style="float: right" alt="merged_video_1">
 </div>
 
-## 项目描述
-- NoteBook文件 [roop-kaggle.ipynb](roop-kaggle.ipynb)
+## 项目结构描述
+```shell
+roop-kaggle               # 项目目录
+    resource              # 资源目录
+        face_picture      # 人脸样例图片
+        target_video      # 样例视频
+    README.md             # README
+    roop-kaggle.ipynb     # notebook文件
+```
