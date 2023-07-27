@@ -1,7 +1,6 @@
 # roop-kaggle
 - 【AI换脸】roop在Kaggle上的使用样例
 - 只需一张脸的图片，即可完成视频内的换脸
-- [点我进入**Kaggle Notebook**样例](https://www.kaggle.com/code/alionsss/roop-kaggle)
 
 ## 前言
 - 因为roop项目的Python环境依赖等问题的处理对于部分朋友比较复杂，所以特此提供了Kaggle版本的样例，可以直接在Kaggle的Notebook中运行
