@@ -29,6 +29,7 @@ roop-kaggle               # 项目目录
     resource              # 资源目录
         face_picture      # 人脸样例图片
         target_video      # 样例视频
+        merged_example    # 合成后的样例GIF
     README.md             # README
     roop-kaggle.ipynb     # notebook文件
 ```
